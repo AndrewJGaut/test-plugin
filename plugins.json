@@ -3,7 +3,8 @@
     "id": "PrometheusHandler",
     "description": "This is used to make the Prometheus custom resources integrate better with Spinnaker",
     "provider": "andrew.gaut@mz.com",
-    "releases": [
+    "releases": 
+    [
       {
         "version": "1.0",
         "date": "2021-07-16",
