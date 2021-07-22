@@ -2,12 +2,14 @@
   {
     "id": "PrometheusHandler",
     "description": "This is used to make the Prometheus custom resources integrate better with Spinnaker",
-    "provider": "andrew.gaut@mz.com",
-    "releases": 
-    [
+    "provider": "https://github.com/AndrewJGaut",
+    "releases": [
       {
-        "version": "1.0",
-        "date": "2021-07-16",
+        "version": "10",
+        "date": "2020-11-03T16:20:59.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "e452e88919c4663f4d47c440ad8ddf75d1bd7b9eb995e9644a9c7710f8e1cfe7a21c3c73a3cb0286e75dd3a11e33a7e8907dddd56d08ec719150ab20d0d7b7a8",
+        "state": "",
         "url": "https://github.com/AndrewJGaut/test-plugin/releases/download/tag/PrometheusHandler-1.0.jar"
       }
     ]
