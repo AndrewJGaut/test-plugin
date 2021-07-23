@@ -8,7 +8,6 @@
         "version": "1.0.0",
         "date": "2020-11-03T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "7935aac7499683e60f6e69c82df4c2281e70a9d36e963bd2aa12c5ac3d8c46ad05aaca3ec368fde8f645d9357321a93b88ffc7ed2f0ea4caaa2b101e7d1938ac",
         "state": "",
         "url": "https://github.com/AndrewJGaut/test-plugin/releases/download/tag/PrometheusHandler-1.0.jar"
       }
