@@ -1,0 +1,6 @@
+Plugin-Class: io.spinnaker.plugin.PrometheusHandler
+Plugin-Id: PrometheusHandler
+Plugin-Version: 1.0.0
+Plugin-Description: This is used to make the Prometheus custom resources integrate better with Spinnaker
+Plugin-Provider: https://github.com/AndrewJGaut
+Plugin-License: None
