@@ -1,5 +1,6 @@
-Plugin-Class: io.spinnaker.plugin.PrometheusHandler
-Plugin-Id: PrometheusHandler
+Manifest-Version: 1.0
+Plugin-Class: io.armory.plugin.example.kubernetes.PrometheusHandler 
+Plugin-Id: my-org.PrometheusHandler
 Plugin-Version: 1.0.0
 Plugin-Description: This is used to make the Prometheus custom resources integrate better with Spinnaker
 Plugin-Provider: https://github.com/AndrewJGaut
