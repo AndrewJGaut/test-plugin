@@ -1,6 +1,6 @@
 [
   {
-    "id": "PrometheusHandler",
+    "id": "my-org.PrometheusHandler",
     "description": "This is used to make the Prometheus custom resources integrate better with Spinnaker",
     "provider": "https://github.com/AndrewJGaut",
     "releases": [
