@@ -8,7 +8,7 @@
             "version": "1.0.0",
             "date": "2021-07-27T00:07:17.929813Z",
             "requires": "clouddriver>=0.0.0",
-            "sha512sum": "bc17bf1514f76b21f34c7c270ba8a8dd6c250d477726b7957a8f17fa60941ef8e7b102faa3255702f7d58f621246254ad3550332511408477fecf83f7549ad11",
+            "sha512sum": "14e7883eb27bb9708b5ecfd20897b7d62475cc6956511427f1e5b90300f87273426f61564079b1bdd62de5cdd5ea0d5646a4b3dff0c6f94e72ecca2ccc5a2d04",
             "state": "RELEASE",
             "url": "https://github.com/AndrewJGaut/test-plugin/releases/download/v1.0.0/PrometheusHandler-v1.0.0.zip"
         }
