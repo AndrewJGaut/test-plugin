@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Plugin-Class: io.armory.plugin.example.kubernetes.PrometheusHandler 
+Plugin-Class: io.armory.plugin.example.kubernetes.PrometheusHandler
 Plugin-Id: my-org.PrometheusHandler
 Plugin-Version: 1.0.0
 Plugin-Description: This is used to make the Prometheus custom resources integrate better with Spinnaker
